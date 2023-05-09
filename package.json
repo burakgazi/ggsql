@@ -1,0 +1,30 @@
+{
+  "name": "ggsql",
+  "version": "0.1.0",
+  "description": "JSON to Ms SQL insert and update query convertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [
+    "mssql",
+    "json",
+    "JSON2MSSql",
+  ],
+  "author": "Fikret Burak Gazioglu <burak@gazi.co> (http://gazi.co)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakgazi/ggsql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/burakgazi/ggsql.git/issues"
+  },
+  "homepage": "https://github.com/burakgazi/ggsql",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^16.3.4"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
